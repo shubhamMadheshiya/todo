@@ -5,7 +5,7 @@ import Todo from './component/todo/todo';
 import Weather from './component/weather/weather';
 
 const App = () => {
-  return <Weather/>;
+  return <Todo/>;
 }
 
 
